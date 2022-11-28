@@ -1,0 +1,15 @@
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\bin\Debug\net6.0\MethodsSample.exe
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\bin\Debug\net6.0\MethodsSample.deps.json
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\bin\Debug\net6.0\MethodsSample.runtimeconfig.json
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\bin\Debug\net6.0\MethodsSample.dll
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\bin\Debug\net6.0\MethodsSample.pdb
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net6.0\MethodsSample.csproj.AssemblyReference.cache
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net6.0\MethodsSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net6.0\MethodsSample.AssemblyInfoInputs.cache
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net6.0\MethodsSample.AssemblyInfo.cs
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net6.0\MethodsSample.csproj.CoreCompileInputs.cache
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net6.0\MethodsSample.dll
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net6.0\refint\MethodsSample.dll
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net6.0\MethodsSample.pdb
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net6.0\MethodsSample.genruntimeconfig.cache
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net6.0\ref\MethodsSample.dll
