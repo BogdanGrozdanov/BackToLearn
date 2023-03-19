@@ -1,20 +1,20 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v6.0",
+    "name": ".NETCoreApp,Version=v7.0",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v6.0": {
-      "MethodsSample/1.0.0": {
+    ".NETCoreApp,Version=v7.0": {
+      "PrintSign/1.0.0": {
         "runtime": {
-          "MethodsSample.dll": {}
+          "PrintSign.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "MethodsSample/1.0.0": {
+    "PrintSign/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,0 +1,15 @@
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\bin\Debug\net7.0\PrintSign.exe
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\bin\Debug\net7.0\PrintSign.deps.json
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\bin\Debug\net7.0\PrintSign.runtimeconfig.json
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\bin\Debug\net7.0\PrintSign.dll
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\bin\Debug\net7.0\PrintSign.pdb
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net7.0\PrintSign.csproj.AssemblyReference.cache
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net7.0\PrintSign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net7.0\PrintSign.AssemblyInfoInputs.cache
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net7.0\PrintSign.AssemblyInfo.cs
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net7.0\PrintSign.csproj.CoreCompileInputs.cache
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net7.0\PrintSign.dll
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net7.0\refint\PrintSign.dll
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net7.0\PrintSign.pdb
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net7.0\PrintSign.genruntimeconfig.cache
+C:\Users\bgroz\OneDrive\Documents\GitHub\BackToLearn\Methods\MethodsSample\obj\Debug\net7.0\ref\PrintSign.dll

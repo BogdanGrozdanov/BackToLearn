@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bgroz\\OneDrive\\Documents\\GitHub\\BackToLearn\\Methods\\MethodsSample\\MethodsSample.csproj": {}
+    "C:\\Users\\bgroz\\OneDrive\\Documents\\GitHub\\BackToLearn\\Methods\\MethodsSample\\PrintSign.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bgroz\\OneDrive\\Documents\\GitHub\\BackToLearn\\Methods\\MethodsSample\\MethodsSample.csproj": {
+    "C:\\Users\\bgroz\\OneDrive\\Documents\\GitHub\\BackToLearn\\Methods\\MethodsSample\\PrintSign.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bgroz\\OneDrive\\Documents\\GitHub\\BackToLearn\\Methods\\MethodsSample\\MethodsSample.csproj",
-        "projectName": "MethodsSample",
-        "projectPath": "C:\\Users\\bgroz\\OneDrive\\Documents\\GitHub\\BackToLearn\\Methods\\MethodsSample\\MethodsSample.csproj",
+        "projectUniqueName": "C:\\Users\\bgroz\\OneDrive\\Documents\\GitHub\\BackToLearn\\Methods\\MethodsSample\\PrintSign.csproj",
+        "projectName": "PrintSign",
+        "projectPath": "C:\\Users\\bgroz\\OneDrive\\Documents\\GitHub\\BackToLearn\\Methods\\MethodsSample\\PrintSign.csproj",
         "packagesPath": "C:\\Users\\bgroz\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\bgroz\\OneDrive\\Documents\\GitHub\\BackToLearn\\Methods\\MethodsSample\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\bgroz\\.nuget\\packages\\": {},
@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bgroz\\OneDrive\\Documents\\GitHub\\BackToLearn\\Methods\\MethodsSample\\MethodsSample.csproj",
-      "projectName": "MethodsSample",
-      "projectPath": "C:\\Users\\bgroz\\OneDrive\\Documents\\GitHub\\BackToLearn\\Methods\\MethodsSample\\MethodsSample.csproj",
+      "projectUniqueName": "C:\\Users\\bgroz\\OneDrive\\Documents\\GitHub\\BackToLearn\\Methods\\MethodsSample\\PrintSign.csproj",
+      "projectName": "PrintSign",
+      "projectPath": "C:\\Users\\bgroz\\OneDrive\\Documents\\GitHub\\BackToLearn\\Methods\\MethodsSample\\PrintSign.csproj",
       "packagesPath": "C:\\Users\\bgroz\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\bgroz\\OneDrive\\Documents\\GitHub\\BackToLearn\\Methods\\MethodsSample\\obj\\",
       "projectStyle": "PackageReference",
@@ -29,7 +29,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -37,8 +37,8 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -49,8 +49,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
